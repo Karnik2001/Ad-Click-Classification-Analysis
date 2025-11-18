@@ -4,15 +4,13 @@ This project focuses on analyzing user interaction data and building machine lea
 
 ## 🚀 Project Highlights
 
-Preprocessed user interaction and demographic data.
+- Preprocessed user interaction and demographic data.
 
-Conducted EDA to uncover behavior and device usage patterns.
+- Built and compared ML models (Logistic Regression, Random Forest, Gradient Boosting).
 
-Built and compared ML models (Logistic Regression, Random Forest, Gradient Boosting).
+- Evaluated results using accuracy, precision, recall, and F1 scores.
 
-Evaluated results using accuracy, precision, recall, and F1 scores.
-
-Identified high-impact features to improve targeting and click-through rates.
+- Identified high-impact features to improve targeting and click-through rates.
 
 ## Model Training
 
