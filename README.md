@@ -54,4 +54,4 @@ This helps identify the best-performing classifier.
 
 - Matplotlib
 
-- Jupyter Notebook
+- Google Colab
