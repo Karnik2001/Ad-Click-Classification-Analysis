@@ -1,4 +1,4 @@
-# Ad-Click-Classification-Analysis
+# Ad Click Classification Analysis
 
 This project focuses on analyzing user interaction data and building machine learning models to predict whether a user will click on an online advertisement. The goal is to understand user behavior, identify key drivers of engagement, and develop a predictive framework that supports data-driven digital marketing decisions.
 
